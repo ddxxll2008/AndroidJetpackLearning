@@ -18,7 +18,7 @@ class StartViewModel : ViewModel() {
     }
 
     fun doAction(): LiveData<String> {
-        clickNumber = clickNumber + 1
+        clickNumber += 1
         messageStr.value = "click  "+ clickNumber
         return messageStr
     }
