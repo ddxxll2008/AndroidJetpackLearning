@@ -61,4 +61,4 @@ ViewModel would be:
  }
  ```
  
- ![image](https://github.com/ddxxll2008/AndroidJetpackLearning/tree/master/ViewModelSample/gif)
+ ![image](https://github.com/ddxxll2008/AndroidJetpackLearning/blob/master/ViewModelSample/gif/ViewModelSample.gif)
