@@ -1,4 +1,8 @@
-  ViewModel是一个负责准备和管理Activity或Fragment数据的类。它还处理Activity / Fragment与应用程序其余部分的通信（例如，调用业务逻辑类）。
+Sample运行效果
+
+ ![image](https://github.com/ddxxll2008/AndroidJetpackLearning/blob/master/ViewModelSample/gif/ViewModelSample.gif)
+
+ViewModel是一个负责准备和管理Activity或Fragment数据的类。它还处理Activity / Fragment与应用程序其余部分的通信（例如，调用业务逻辑类）。
 
   始终与范围（Fragment或Activity）关联创建ViewModel，并且只要范围处于活动状态，将保留ViewModel。例如。如果它是一个Activity，直到它完成。
 
@@ -60,5 +64,3 @@ ViewModel would be:
      }
  }
  ```
- 
- ![image](https://github.com/ddxxll2008/AndroidJetpackLearning/blob/master/ViewModelSample/gif/ViewModelSample.gif)
