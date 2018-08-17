@@ -60,3 +60,5 @@ ViewModel would be:
      }
  }
  ```
+ 
+ ![image](https://github.com/ddxxll2008/AndroidJetpackLearning/tree/master/ViewModelSample/gif)
